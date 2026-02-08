@@ -26,5 +26,5 @@ Check out my repositories —
 
 ---
 
-🖤 Still learning.
+🖤 Still learning
 
