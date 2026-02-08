@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**golikarami/golikarami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Goli 👋  
 
-Here are some ideas to get you started:
+Frontend developer in the making, obsessed with clean UI, smooth UX,  
+and code that actually makes sense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning designs into interactive, responsive interfaces.
+
+### 🧠 What I work with (for now)
+- HTML, CSS, JavaScript  
+- React  
+- Responsive Design & UI details
+
+### 🎨 What I care about
+- Clean layouts, not noisy ones  
+- Learning by building real projects  
+- Writing code future-me won’t hate
+
+### 🚀 Currently
+- Improving my React skills  
+- Building small but complete projects  
+- Learning how frontend connects to real-world APIs
+
+### 📂 Projects
+Check out my repositories —  
+
+---
+
+🖤 Still learning. Still building. Still curious.
+
